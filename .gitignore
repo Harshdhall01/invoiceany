@@ -1,0 +1,17 @@
+node_modules
+.next
+.env
+.env.local
+data/
+*.tsbuildinfo
+
+.debug/
+
+.env.local
+.env*.local
+.debug/
+data/
+repo-dump.txt
+tsconfig.tsbuildinfo
+.next/
+node_modules/
